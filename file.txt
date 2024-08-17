@@ -1,1 +1,2 @@
 Redirect the STDOUT to a file
+baby this is what you came for. lightning strikes every time you move
